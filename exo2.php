@@ -13,7 +13,7 @@ function formulaire($valeur1, $valeur2, $valeur3) {
 <!doctype html>
 <html lang="fr">
 <head>
-<title>Exo 1 - TP2</title>
+<title>Exo 2 - TP2</title>
 </head>
 <body>
 
