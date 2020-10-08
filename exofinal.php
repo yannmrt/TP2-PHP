@@ -1,5 +1,7 @@
 <?php
 
+
+// Cette fonction affiche un tableau et une fois le tableau rempli il vérifie le mot de passe entrer 
 function formulaire() {
     ?> <html><form method="POST">
     <input type="password" name="password" />

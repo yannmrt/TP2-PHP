@@ -1,5 +1,6 @@
 <?php
 
+// Cette fonction affiche un tableau HTML avec ses valeurs
 function formulaire($valeur1, $valeur2, $valeur3) {
     echo '<table border="1"><tr>';
     echo '<td>' . $valeur1 . '</td>';

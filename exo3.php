@@ -1,5 +1,6 @@
 <?php
 
+// Cette fonction calcule la moyenne des valeures entrée et l'affiche
 function formulaire($valeur1, $valeur2, $valeur3) {
     $valeurTotal = $valeur1+$valeur2+$valeur3;
     $moyenne = $valeurTotal/3;
