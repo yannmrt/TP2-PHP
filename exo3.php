@@ -25,3 +25,4 @@ function formulaire($valeur1, $valeur2, $valeur3) {
 highlight_file(__FILE__); 
 
 ?>
+<?php echo '<a href="."><button>Retour en arrière</button></a>'; ?>
